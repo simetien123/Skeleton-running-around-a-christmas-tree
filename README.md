@@ -1,7 +1,7 @@
 # Skeleton-running-around-a-christmas-tree
 -use this on powershell to make the file work: "winget install ffmpeg"
 
--and use this after that: "pip install pygame PyOpenGL Pillow"
+-and use this after that: "pip install pygame PyOpenGL Pillow" (on powershell too)
 
 REMEBER! extract the file!
 
