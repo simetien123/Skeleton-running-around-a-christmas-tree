@@ -6,10 +6,15 @@ Save it like this:
 
 C:\skeleton_tree\
 ├── video_overlay.py
+
 └── skeleton_clean\
-    ├── frame_001.png
-    ├── frame_002.png
-    ├── ...
-    └── frame_073.png
+    
+├── frame_001.png
+    
+├── frame_002.png
+    
+├── ...
+    
+└── frame_073.png
 
 Made by: simetien123
