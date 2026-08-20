@@ -17,12 +17,12 @@ C:\skeleton_tree\
 
 └── skeleton_clean\
     
-  ├── frame_001.png
+    ├── frame_001.png
     
-  ├── frame_002.png
+    ├── frame_002.png
     
-  ├── ...
+    ├── ...
     
-  └── frame_073.png
+    └── frame_073.png
 
 Made by: simetien123
